@@ -1,6 +1,6 @@
-# BirdBound 🐦
+# BirdBound
 
-You’re a bird. You flap. You go up. You pass through pipes to score points. If you hit a pipe? Well, you’ll see the game over screen faster than you can say “Oops.” It’s a simple game.
+You’re a bird (yes, that thing in the game is a bird). You flap. You go up. You pass through pipes to score points. If you hit a pipe? Well, you’ll see the game over screen faster than you can say “Oops.” It’s a simple game.
 
 ## Features
 
@@ -18,6 +18,5 @@ If this bird ever makes it out alive, here are some cool features that might be 
 
 ---
 
-- Inspired by *that* flapping game everyone couldn’t stop playing and rage-quitting.
-Enjoy
-
+Inspired by *that* flapping game everyone couldn’t stop playing and rage-quitting.
+Enjoy!
